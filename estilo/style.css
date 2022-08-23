@@ -72,10 +72,10 @@ section.imagem {
 }
 
 section.imagem > p {
-    color: white;
+    color: rgb(169, 168, 168);
     padding: 5px;
     display:inline-block;
-    text-shadow: 1px 1px 2px black;
+    text-shadow: 2px 2px 2px black;
 }
 
 section#img01 {
